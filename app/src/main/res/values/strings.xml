@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+
+    <string-array name="spinnerItems">
+
+        <item>1Month</item>
+        <item>3Months</item>
+        <item>6Months</item>
+
+    </string-array>
+
+</resources>

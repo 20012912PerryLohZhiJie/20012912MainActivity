@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/EnglishSelection"
+        android:title="English" />
+    <item
+        android:id="@+id/SimpChineseSelection"
+        android:title="Simplified Chinese" />
+    <item
+        android:id="@+id/TradChineseSelection"
+        android:title="Tradditional Chinese" />
+    <item
+        android:id="@+id/MalaySelection"
+        android:title="Malay" />
+    <item
+        android:id="@+id/SpanishSelection"
+        android:title="Spanish" />
+    <item
+        android:id="@+id/JapaneseSelection"
+        android:title="Japanese" />
+    <item
+        android:id="@+id/KoreanSelection"
+        android:title="Korean" />
+    <item
+        android:id="@+id/ItalianSelection"
+        android:title="Italian" />
+    <item
+        android:id="@+id/FrenchSelection"
+        android:title="French" />
+</menu>
